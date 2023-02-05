@@ -1,7 +1,7 @@
 const CONFIG_HEXO = {
     HOME_BANNER_ENABLE: true,
     HOME_BANNER_GREETINGS: ['少年听雨歌楼上 红烛昏罗帐', '壮年听雨客舟中 江阔云低 断雁叫西风',
-        '而今听雨僧庐下 鬓已星星也', '悲欢离合总无情 一任阶前 点滴到天明'
+        '而今听雨僧庐下 鬓已星星也', '悲欢离合总无情 一任阶前 点滴到天明',''
     ], // 首页大图标语文字
 
     HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
