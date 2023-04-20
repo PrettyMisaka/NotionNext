@@ -4,7 +4,8 @@ const CONFIG_MATERY = {
         '而今听雨僧庐下 鬓已星星也', '悲欢离合总无情 一任阶前 点滴到天明',''
     ], // 首页大图标语文字
 
-    HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
+  HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
+  HOME_NAV_BACKGROUND_IMG_FIXED: false, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
 
     // 菜单配置
     MENU_CATEGORY: true, // 显示分类
