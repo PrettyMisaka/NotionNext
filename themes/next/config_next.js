@@ -1,8 +1,9 @@
 const CONFIG_NEXT = {
     HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
-    HOME_BANNER_Strings: ['少年听雨歌楼上 红烛昏罗帐', '壮年听雨客舟中 江阔云低 断雁叫西风',
-        '而今听雨僧庐下 鬓已星星也', '悲欢离合总无情 一任阶前 点滴到天明',''
-    ], // 首页大图标语文字
+    // HOME_BANNER_GREETINGS: ['少年听雨歌楼上 红烛昏罗帐', '壮年听雨客舟中 江阔云低 断雁叫西风',
+    //     '而今听雨僧庐下 鬓已星星也', '悲欢离合总无情 一任阶前 点滴到天明',''
+    // ], // 首页大图标语文字
+    HOME_BANNER_GREETINGS: ['遇事不决 可问春风'], // 首页大图标语文字
 
     NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 
